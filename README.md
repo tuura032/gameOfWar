@@ -1,5 +1,6 @@
 # gameOfWar
 Replicated the game "War" in Java
+
 ----------------------------------
 
 The purpose of the project was to practice OOP in Java. The application functions to replicate the classic card game "War".
